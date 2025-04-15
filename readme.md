@@ -49,9 +49,8 @@ Uncomment these tests once you feel confident and want an extra challenge. Bonus
 
 ### 📝 **Submission**
 - Submit the java project by email before the next session.
-- 0.5 bonus points will be awarded to students returning their assignment as a public git repository.
-- Optional: include notes explaining your thought process or any assumptions you made.
-
+- In your mail, please include short notes explaining your methodology for developing the calculator as well as the difficulties you encountered (if any) and the assumptions you made.
+- 0.5 bonus points will be awarded to students returning their assignment as a link to a public git repository.
 ---
 
 ### 💯 **Rating system**
@@ -63,9 +62,7 @@ Uncomment these tests once you feel confident and want an extra challenge. Bonus
 ---
 
 ### 🧠 **Hint**
-Start simple! Try to make tests pass one at a time !
-
-And remember to refactor your code when it gets too complex.
+Start simple! Try to make tests pass one at a time and to refactor your code when it gets too complex.
 
 Good luck, and remember to focus on code readibility ! 🧠💻
 
