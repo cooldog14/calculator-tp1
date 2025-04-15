@@ -48,9 +48,9 @@ Uncomment these tests once you feel confident and want an extra challenge. Bonus
 ---
 
 ### 📝 **Submission**
-- Lab to be completed individually or in pairs
-- To be submitted by email before May 6th 11:59. In your mail, please include short notes (150 words max) explaining your methodology for developing the calculator as well as the difficulties you encountered (if any) and the assumptions you made.
-- 0.5 bonus points will be awarded to students returning their assignment as a link to a public git repository. Students who submit the lab as a Git repo also have until May 6th 11:59 to add commits to their project, even if they sent the repo link to the teacher before this date.
+- Lab to be completed **individually or in pairs**
+- To be submitted **by email before May 6th 11:59**. In your mail, please **include short notes** (150 words max) explaining your methodology for developing the calculator as well as the difficulties you encountered (if any) and the assumptions you made.
+- 0.5 **bonus points** will be awarded to students returning their assignment as a link to a **public git repository**. Students who submit the lab as a Git repo also have until May 6th 11:59 to add commits to their project, even if they sent the repo link to the teacher before this date.
 - Questions about this lab can be submitted by email until April 23rd at 11:59 PM.
 - Students are allowed to make this lab in another language than java as long as :
   - they port the unit tests
@@ -59,7 +59,7 @@ Uncomment these tests once you feel confident and want an extra challenge. Bonus
 ---
 
 ### 💯 **Rating system**
-- 10 points for the overall readibility of your code: is your code understandable, or is it unnecessarily complex and opaque ? Does it respect most of SOLID principles as well as the design guidelines learnt in class ? Here are some reminders that may help you write clean code in this specific exercise :
+- 10 points for the overall quality of your code: is your code understandable, or is it unnecessarily complex and opaque ? Does it respect most of SOLID principles as well as the design guidelines learnt in class ? Here are some reminders that may help you write clean code in this specific exercise :
   - Single Responsibility Principle : a class or a function should focus on one and only one thing. They should have no more than one reason to change
   - Naming : try to give meaningful names to classes, methods and variables.
   - Avoid comments. Explain yourself through the code.
