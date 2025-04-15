@@ -48,9 +48,10 @@ Uncomment these tests once you feel confident and want an extra challenge. Bonus
 ---
 
 ### 📝 **Submission**
-- Submit the java project by email before the next session.
-- In your mail, please include short notes explaining your methodology for developing the calculator as well as the difficulties you encountered (if any) and the assumptions you made.
-- 0.5 bonus points will be awarded to students returning their assignment as a link to a public git repository.
+- Lab to be completed individually or in pairs
+- To be submitted by email before May 6th 11:59. In your mail, please include short notes explaining your methodology for developing the calculator as well as the difficulties you encountered (if any) and the assumptions you made.
+- 0.5 bonus points will be awarded to students returning their assignment as a link to a public git repository. Students who submit the lab as a Git repo also have until May 6th 11:59 to add commits to their project, even if they sent the repo link to the teacher before this date.
+- Questions about this lab can be submitted by email until April 23rd at 11:59 PM.
 ---
 
 ### 💯 **Rating system**
