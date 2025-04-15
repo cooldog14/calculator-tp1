@@ -54,7 +54,12 @@ Uncomment these tests once you feel confident and want an extra challenge. Bonus
 ---
 
 ### 💯 **Rating system**
-- 10 points for the overall readibility of your code: is your code understandable, or is it unnecessarily complex and opaque ? Does it respect most of SOLID principles as well as the design guidelines learnt in class ?
+- 10 points for the overall readibility of your code: is your code understandable, or is it unnecessarily complex and opaque ? Does it respect most of SOLID principles as well as the design guidelines learnt in class ? Here are some reminders that may help you write clean code in this specific exercise :
+  - Single Responsibility Principle : a class or a function should focus on one and only one thing. They should have no more than one reason to change
+  - Naming : try to give meaningful names to classes, methods and variables.
+  - Avoid comments. Explain yourself through the code.
+  - Keep things short. If you finding yourself writing a 200 lines long method, it means you can probably refactor it into multiple methods.
+  - Keep the level of nesting as low as possible. You don't want an if inside an if inside an if.
 - 10 points for making your code work, i.e making tests pass.
 - 1 bonus point for having the negative number test pass (if all non bonus tests also pass)
 - 1.5 bonus point for having the parenthesis test pass (if all non bonus tests also pass)
