@@ -101,28 +101,28 @@ class CalculatorTest {
         assertEquals(expectedValue, calculator.evaluateMathExpression(expression));
     }
 
-//    @ParameterizedTest(name = "{index} => input={0}, expected={1}")
-//    @CsvSource({
-//            "'-15', -15",
-//            "'-1', -1"
-//    })
-//    void basicNegativeInteger(String expression, double expectedValue) {
-//        Calculator calculator = new Calculator();
-//
-//        assertEquals(expectedValue, calculator.evaluateMathExpression(expression));
-//    }
+   @ParameterizedTest(name = "{index} => input={0}, expected={1}")
+   @CsvSource({
+           "'-15', -15",
+           "'-1', -1"
+   })
+   void basicNegativeInteger(String expression, double expectedValue) {
+       Calculator calculator = new Calculator();
 
-//    @ParameterizedTest(name = "{index} => input={0}, expected={1}")
-//    @CsvSource({
-//            "'0 * (0 + 1)', 0",
-//            "'(1 + 2) * 2 + 1', 7",
-//            "'(1 + 2) * (2 + 1)', 9",
-//            "'(5 - 5) * 0 - 4', -4",
-//            "'(10 - 2) * 10', 80"
-//    })
-//    void multipleOperationsWithParenthesis(String expression, double expectedValue) {
-//        Calculator calculator = new Calculator();
-//
-//        assertEquals(expectedValue, calculator.evaluateMathExpression(expression));
-//    }
+       assertEquals(expectedValue, calculator.evaluateMathExpression(expression));
+   }
+
+   @ParameterizedTest(name = "{index} => input={0}, expected={1}")
+   @CsvSource({
+           "'0 * (0 + 1)', 0",
+           "'(1 + 2) * 2 + 1', 7",
+           "'(1 + 2) * (2 + 1)', 9",
+           "'(5 - 5) * 0 - 4', -4",
+           "'(10 - 2) * 10', 80"
+   })
+   void multipleOperationsWithParenthesis(String expression, double expectedValue) {
+       Calculator calculator = new Calculator();
+
+       assertEquals(expectedValue, calculator.evaluateMathExpression(expression));
+   }
 }
